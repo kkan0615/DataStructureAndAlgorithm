@@ -26,4 +26,4 @@ elif int(T / N2) % 2 == 1:
 else:
     print('hello')
     # print(int(N2 - (T / N2) + 1))
-    print(int(T / N2) + (T % N2)
+    print(int(T / N2) + (T % N2))
